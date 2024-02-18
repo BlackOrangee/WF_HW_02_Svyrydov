@@ -1,0 +1,10 @@
+G:\cw2\WF_CW_11.02.24\WF_CW_11.02.24\bin\Debug\WF_CW_11.02.24.exe.config
+G:\cw2\WF_CW_11.02.24\WF_CW_11.02.24\bin\Debug\WF_CW_11.02.24.exe
+G:\cw2\WF_CW_11.02.24\WF_CW_11.02.24\bin\Debug\WF_CW_11.02.24.pdb
+G:\cw2\WF_CW_11.02.24\WF_CW_11.02.24\obj\Debug\WF_CW_11.02.24.csproj.AssemblyReference.cache
+G:\cw2\WF_CW_11.02.24\WF_CW_11.02.24\obj\Debug\WF_CW_11._02._24.Form1.resources
+G:\cw2\WF_CW_11.02.24\WF_CW_11.02.24\obj\Debug\WF_CW_11._02._24.Properties.Resources.resources
+G:\cw2\WF_CW_11.02.24\WF_CW_11.02.24\obj\Debug\WF_CW_11.02.24.csproj.GenerateResource.cache
+G:\cw2\WF_CW_11.02.24\WF_CW_11.02.24\obj\Debug\WF_CW_11.02.24.csproj.CoreCompileInputs.cache
+G:\cw2\WF_CW_11.02.24\WF_CW_11.02.24\obj\Debug\WF_CW_11.02.24.exe
+G:\cw2\WF_CW_11.02.24\WF_CW_11.02.24\obj\Debug\WF_CW_11.02.24.pdb
